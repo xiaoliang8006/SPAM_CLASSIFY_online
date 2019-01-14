@@ -1,0 +1,184 @@
+
+******************* data preprocessing ********************
+save y successfully!
+save vec_tfidf successfully!
+save X successfully!
+save feature successfully!
+******* 100000 lines data preprocessing done in 1036.130s *******
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     80901
+           1       0.99      0.98      0.99      9099
+
+   micro avg       1.00      1.00      1.00     90000
+   macro avg       1.00      0.99      0.99     90000
+weighted avg       1.00      1.00      1.00     90000
+
+training took 731.038000s!
+confusion matrix
+[[8950   24]
+ [  58  968]]
+TP:8950
+TN:968
+FP:58
+FN:24
+Recalls: 0.99732560731
+Precisions: 0.993561278863
+Accuracys: 0.9918
+f_value: 0.995439884329
+*************** Trainning done in 775.624s ***************
+
+
+
+******************* data preprocessing ********************
+save y successfully!
+save vec_tfidf successfully!
+save X successfully!
+save feature successfully!
+******* 100000 lines data preprocessing done in 1144.632s *******
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     80901
+           1       0.99      0.98      0.99      9099
+
+   micro avg       1.00      1.00      1.00     90000
+   macro avg       1.00      0.99      0.99     90000
+weighted avg       1.00      1.00      1.00     90000
+
+training took 756.054000s!
+confusion matrix
+[[8950   24]
+ [  58  968]]
+TP:8950
+TN:968
+FP:58
+FN:24
+Recalls: 0.99732560731
+Precisions: 0.993561278863
+Accuracys: 0.9918
+f_value: 0.995439884329
+*************** Trainning done in 806.193s ***************
+
+
+Total time: 1977.469s !
+******************* data preprocessing ********************
+save y successfully!
+save vec_tfidf successfully!
+save X successfully!
+save feature successfully!
+******* 50000 lines data preprocessing done in 580.544s *******
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       0.99      0.99      0.99      4531
+
+   micro avg       1.00      1.00      1.00     45000
+   macro avg       0.99      0.99      0.99     45000
+weighted avg       1.00      1.00      1.00     45000
+
+training took 238.473000s!
+confusion matrix
+[[4490    9]
+ [  42  459]]
+TP:4490
+TN:459
+FP:42
+FN:9
+Recalls: 0.997999555457
+Precisions: 0.990732568402
+Accuracys: 0.9898
+f_value: 0.994352784852
+*************** Trainning done in 258.092s ***************
+
+
+Total time: 859.655s !
+******************* data preprocessing ********************
+save y successfully!
+********************** trainning start **********************
+******************* data preprocessing ********************
+save y successfully!
+save vec_tfidf successfully!
+save X successfully!
+save feature successfully!
+******* 100 lines data preprocessing done in 2.375s *******
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        78
+           1       1.00      1.00      1.00        12
+
+   micro avg       1.00      1.00      1.00        90
+   macro avg       1.00      1.00      1.00        90
+weighted avg       1.00      1.00      1.00        90
+
+training took 0.037000s!
+confusion matrix
+[[9 0]
+ [1 0]]
+TP:9
+TN:0
+FP:1
+FN:0
+Recalls: 1.0
+Precisions: 0.9
+Accuracys: 0.9
+f_value: 0.947368421053
+*************** Trainning done in 0.085s ***************
+
+
+Total time: 17.866s !
+******************* data preprocessing ********************
+save y successfully!
+save vec_tfidf successfully!
+save X successfully!
+save feature successfully!
+******* 50000 lines data preprocessing done in 592.348s *******
+
+
+********************** trainning start **********************
+takeup finished
+###### train SVM model2 #######
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     40469
+           1       0.99      0.99      0.99      4531
+
+   micro avg       1.00      1.00      1.00     45000
+   macro avg       0.99      0.99      0.99     45000
+weighted avg       1.00      1.00      1.00     45000
+
+training took 232.610000s!
+confusion matrix
+[[4490    9]
+ [  42  459]]
+TP:4490
+TN:459
+FP:42
+FN:9
+Recalls: 0.997999555457
+Precisions: 0.990732568402
+Accuracys: 0.9898
+f_value: 0.994352784852
+*************** Trainning done in 252.155s ***************
+
+
+Total time: 864.429s !
