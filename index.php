@@ -2,8 +2,8 @@
 <?php
 #########################程序简介##########################
 # Spam Message Classifiers
-# time 2017.12.16
-# author: liu13
+# time 2018.12.20
+# author: liangfh
 ?>
 <head>
     <title>垃圾短信识别</title>

@@ -24,3 +24,4 @@
 #### DataProcess.py是对数据做预处理
 #### SVM_Trainer.py是训练SVM模型
 #### Message_Classify.py是对给定的短信预测结果
+#### SPAM_CLASSIFY_online文件夹放置在apache的根目录下即可，将index.php拿出也放置在apache的根目录下
